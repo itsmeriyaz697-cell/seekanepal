@@ -1,0 +1,30 @@
+# SeekaNepal crawler policy
+# Replace seekanepal.vercel.app if the Vercel project URL is different.
+User-agent: *
+Allow: /
+Allow: /class-1
+Allow: /class-2
+Allow: /class-3
+Allow: /class-4
+Allow: /class-5
+Allow: /class-6
+Allow: /class-7
+Allow: /class-8
+Allow: /class-9
+Allow: /class-10
+Allow: /class-11
+Allow: /class-12
+Disallow: /api/
+Disallow: /dashboard/
+Disallow: /login
+Disallow: /signup
+Disallow: /account/
+Disallow: /settings/
+Disallow: /practice/session/
+Disallow: /tutor/session/
+Disallow: /admin/
+Disallow: /_next/
+Disallow: /*?*session=
+Disallow: /*?*token=
+
+Sitemap: https://seekanepal.vercel.app/sitemap.xml

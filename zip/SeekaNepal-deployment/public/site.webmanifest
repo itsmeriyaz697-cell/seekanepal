@@ -1,0 +1,12 @@
+{
+  "name": "SeekaNepal — Your AI Teacher",
+  "short_name": "SeekaNepal",
+  "description": "Learn. Ask. Understand. A Nepal-focused AI learning platform for students.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f7f9ff",
+  "theme_color": "#0b1736",
+  "lang": "en",
+  "icons": [{"src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}]
+}
